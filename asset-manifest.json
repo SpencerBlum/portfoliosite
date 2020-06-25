@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.328cda1d.chunk.css",
-    "main.js": "/my-app/static/js/main.20263e40.chunk.js",
-    "main.js.map": "/my-app/static/js/main.20263e40.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.367b1e0b.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.367b1e0b.js.map",
-    "static/js/2.8690aae2.chunk.js": "/my-app/static/js/2.8690aae2.chunk.js",
-    "static/js/2.8690aae2.chunk.js.map": "/my-app/static/js/2.8690aae2.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.c76f3d99f3980738b3225797b7db61e9.js": "/my-app/precache-manifest.c76f3d99f3980738b3225797b7db61e9.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.328cda1d.chunk.css.map": "/my-app/static/css/main.328cda1d.chunk.css.map",
-    "static/js/2.8690aae2.chunk.js.LICENSE.txt": "/my-app/static/js/2.8690aae2.chunk.js.LICENSE.txt",
-    "static/media/SpencerBlumlogo.png": "/my-app/static/media/SpencerBlumlogo.c19da378.png",
-    "static/media/logo.svg": "/my-app/static/media/logo.5d5d9eef.svg",
-    "static/media/spencerprofile.png": "/my-app/static/media/spencerprofile.26276f5c.png",
-    "static/media/spencerprofile2.png": "/my-app/static/media/spencerprofile2.1c08625f.png"
+    "main.css": "/static/css/main.328cda1d.chunk.css",
+    "main.js": "/static/js/main.db99bcf1.chunk.js",
+    "main.js.map": "/static/js/main.db99bcf1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.9b126251.js",
+    "runtime-main.js.map": "/static/js/runtime-main.9b126251.js.map",
+    "static/js/2.e09bca6d.chunk.js": "/static/js/2.e09bca6d.chunk.js",
+    "static/js/2.e09bca6d.chunk.js.map": "/static/js/2.e09bca6d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a560e97fea811b88edc31da530125ecf.js": "/precache-manifest.a560e97fea811b88edc31da530125ecf.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.328cda1d.chunk.css.map": "/static/css/main.328cda1d.chunk.css.map",
+    "static/js/2.e09bca6d.chunk.js.LICENSE.txt": "/static/js/2.e09bca6d.chunk.js.LICENSE.txt",
+    "static/media/SpencerBlumlogo.png": "/static/media/SpencerBlumlogo.c19da378.png",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/spencerprofile.png": "/static/media/spencerprofile.26276f5c.png",
+    "static/media/spencerprofile2.png": "/static/media/spencerprofile2.1c08625f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.367b1e0b.js",
-    "static/js/2.8690aae2.chunk.js",
+    "static/js/runtime-main.9b126251.js",
+    "static/js/2.e09bca6d.chunk.js",
     "static/css/main.328cda1d.chunk.css",
-    "static/js/main.20263e40.chunk.js"
+    "static/js/main.db99bcf1.chunk.js"
   ]
 }
