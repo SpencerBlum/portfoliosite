@@ -11,11 +11,12 @@ function App() {
   return (
  
     <div className="">
-      <Router basename= {process.env.PUBLIC_URL}  >
+      <Home/>
+      {/* <Router basename= {process.env.PUBLIC_URL}  >
       <div>
       <Route  exact path="/"  render={(routerProps) => <Home routerProps={routerProps}  /> } />
       </div>
-    </Router>
+    </Router> */}
     </div>
   );
 }
