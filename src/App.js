@@ -11,9 +11,9 @@ function App() {
   return (
  
     <div className="">
-      <Router>
+      <Router basename= {process.env.PUBLIC_URL}  >
       <div>
-      <Route exact path="/" render={() => <Home  /> } />
+      <Route  exact path="/"  render={(routerProps) => <Home routerProps={routerProps}  /> } />
       </div>
     </Router>
     </div>
