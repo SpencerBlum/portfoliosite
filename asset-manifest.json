@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/my-website/static/css/main.328cda1d.chunk.css",
-    "main.js": "/my-website/static/js/main.0aa9db42.chunk.js",
-    "main.js.map": "/my-website/static/js/main.0aa9db42.chunk.js.map",
-    "runtime-main.js": "/my-website/static/js/runtime-main.0cbcd75a.js",
-    "runtime-main.js.map": "/my-website/static/js/runtime-main.0cbcd75a.js.map",
-    "static/js/2.00eb7127.chunk.js": "/my-website/static/js/2.00eb7127.chunk.js",
-    "static/js/2.00eb7127.chunk.js.map": "/my-website/static/js/2.00eb7127.chunk.js.map",
-    "index.html": "/my-website/index.html",
-    "precache-manifest.a3dd98f5877619525be5f5e346f7720f.js": "/my-website/precache-manifest.a3dd98f5877619525be5f5e346f7720f.js",
-    "service-worker.js": "/my-website/service-worker.js",
-    "static/css/main.328cda1d.chunk.css.map": "/my-website/static/css/main.328cda1d.chunk.css.map",
-    "static/js/2.00eb7127.chunk.js.LICENSE.txt": "/my-website/static/js/2.00eb7127.chunk.js.LICENSE.txt",
-    "static/media/SpencerBlumlogo.png": "/my-website/static/media/SpencerBlumlogo.c19da378.png",
-    "static/media/logo.svg": "/my-website/static/media/logo.5d5d9eef.svg",
-    "static/media/spencerprofile.png": "/my-website/static/media/spencerprofile.26276f5c.png",
-    "static/media/spencerprofile2.png": "/my-website/static/media/spencerprofile2.1c08625f.png"
+    "main.css": "/portfoliosite/static/css/main.328cda1d.chunk.css",
+    "main.js": "/portfoliosite/static/js/main.773dadab.chunk.js",
+    "main.js.map": "/portfoliosite/static/js/main.773dadab.chunk.js.map",
+    "runtime-main.js": "/portfoliosite/static/js/runtime-main.4deeb25c.js",
+    "runtime-main.js.map": "/portfoliosite/static/js/runtime-main.4deeb25c.js.map",
+    "static/js/2.cd5b7828.chunk.js": "/portfoliosite/static/js/2.cd5b7828.chunk.js",
+    "static/js/2.cd5b7828.chunk.js.map": "/portfoliosite/static/js/2.cd5b7828.chunk.js.map",
+    "index.html": "/portfoliosite/index.html",
+    "precache-manifest.c99038564bcfd9301e8fac4075a35d14.js": "/portfoliosite/precache-manifest.c99038564bcfd9301e8fac4075a35d14.js",
+    "service-worker.js": "/portfoliosite/service-worker.js",
+    "static/css/main.328cda1d.chunk.css.map": "/portfoliosite/static/css/main.328cda1d.chunk.css.map",
+    "static/js/2.cd5b7828.chunk.js.LICENSE.txt": "/portfoliosite/static/js/2.cd5b7828.chunk.js.LICENSE.txt",
+    "static/media/SpencerBlumlogo.png": "/portfoliosite/static/media/SpencerBlumlogo.c19da378.png",
+    "static/media/logo.svg": "/portfoliosite/static/media/logo.5d5d9eef.svg",
+    "static/media/spencerprofile.png": "/portfoliosite/static/media/spencerprofile.26276f5c.png",
+    "static/media/spencerprofile2.png": "/portfoliosite/static/media/spencerprofile2.1c08625f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0cbcd75a.js",
-    "static/js/2.00eb7127.chunk.js",
+    "static/js/runtime-main.4deeb25c.js",
+    "static/js/2.cd5b7828.chunk.js",
     "static/css/main.328cda1d.chunk.css",
-    "static/js/main.0aa9db42.chunk.js"
+    "static/js/main.773dadab.chunk.js"
   ]
 }
