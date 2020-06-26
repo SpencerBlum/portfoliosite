@@ -11,9 +11,10 @@ function App() {
   return (
  
     <div className="">
-      <Router basename= {process.env.PUBLIC_URL}  >
+      <Router >
       <div>
-      <Route  exact path="/"  render={(routerProps) => <Home routerProps={routerProps}  /> } />
+      <Route  exact path="/"  render={() => <Home/> } />
+      <Route  exact path="*"  render={() => <Redirect to ="/" /> } />
       </div>
     </Router>
     </div>
