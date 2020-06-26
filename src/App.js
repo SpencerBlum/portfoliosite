@@ -11,12 +11,15 @@ function App() {
   return (
  
     <div className="">
-      <Router >
-      <div>
-      <Route  exact path="/"  render={() => <Home/> } />
-      <Route  exact path="*"  render={() => <Redirect to ="/" /> } />
-      </div>
-    </Router>
+
+
+
+    <Router >
+      <div>
+      <Route  exact path="/Home"   omponent={Home} />
+      <Route  exact path="*"  render={() => <Redirect to ="/Home" /> } />
+      </div>
+    </Router>
     </div>
   );
 }
