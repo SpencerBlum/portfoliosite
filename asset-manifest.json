@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/portfoliosite/static/css/main.328cda1d.chunk.css",
-    "main.js": "/portfoliosite/static/js/main.581416e5.chunk.js",
-    "main.js.map": "/portfoliosite/static/js/main.581416e5.chunk.js.map",
-    "runtime-main.js": "/portfoliosite/static/js/runtime-main.4deeb25c.js",
-    "runtime-main.js.map": "/portfoliosite/static/js/runtime-main.4deeb25c.js.map",
-    "static/js/2.30a2dbde.chunk.js": "/portfoliosite/static/js/2.30a2dbde.chunk.js",
-    "static/js/2.30a2dbde.chunk.js.map": "/portfoliosite/static/js/2.30a2dbde.chunk.js.map",
-    "index.html": "/portfoliosite/index.html",
-    "precache-manifest.e9e4921628c9ab77307d9c51716b9391.js": "/portfoliosite/precache-manifest.e9e4921628c9ab77307d9c51716b9391.js",
-    "service-worker.js": "/portfoliosite/service-worker.js",
-    "static/css/main.328cda1d.chunk.css.map": "/portfoliosite/static/css/main.328cda1d.chunk.css.map",
-    "static/js/2.30a2dbde.chunk.js.LICENSE.txt": "/portfoliosite/static/js/2.30a2dbde.chunk.js.LICENSE.txt",
-    "static/media/SpencerBlumlogo.png": "/portfoliosite/static/media/SpencerBlumlogo.c19da378.png",
-    "static/media/logo.svg": "/portfoliosite/static/media/logo.5d5d9eef.svg",
-    "static/media/spencerprofile.png": "/portfoliosite/static/media/spencerprofile.26276f5c.png",
-    "static/media/spencerprofile2.png": "/portfoliosite/static/media/spencerprofile2.1c08625f.png"
+    "main.css": "/www.spencerblum.com/static/css/main.328cda1d.chunk.css",
+    "main.js": "/www.spencerblum.com/static/js/main.7796234c.chunk.js",
+    "main.js.map": "/www.spencerblum.com/static/js/main.7796234c.chunk.js.map",
+    "runtime-main.js": "/www.spencerblum.com/static/js/runtime-main.97e34d29.js",
+    "runtime-main.js.map": "/www.spencerblum.com/static/js/runtime-main.97e34d29.js.map",
+    "static/js/2.4ba2d342.chunk.js": "/www.spencerblum.com/static/js/2.4ba2d342.chunk.js",
+    "static/js/2.4ba2d342.chunk.js.map": "/www.spencerblum.com/static/js/2.4ba2d342.chunk.js.map",
+    "index.html": "/www.spencerblum.com/index.html",
+    "precache-manifest.42ac63daa414826b542f8b9a0b092315.js": "/www.spencerblum.com/precache-manifest.42ac63daa414826b542f8b9a0b092315.js",
+    "service-worker.js": "/www.spencerblum.com/service-worker.js",
+    "static/css/main.328cda1d.chunk.css.map": "/www.spencerblum.com/static/css/main.328cda1d.chunk.css.map",
+    "static/js/2.4ba2d342.chunk.js.LICENSE.txt": "/www.spencerblum.com/static/js/2.4ba2d342.chunk.js.LICENSE.txt",
+    "static/media/SpencerBlumlogo.png": "/www.spencerblum.com/static/media/SpencerBlumlogo.c19da378.png",
+    "static/media/logo.svg": "/www.spencerblum.com/static/media/logo.5d5d9eef.svg",
+    "static/media/spencerprofile.png": "/www.spencerblum.com/static/media/spencerprofile.26276f5c.png",
+    "static/media/spencerprofile2.png": "/www.spencerblum.com/static/media/spencerprofile2.1c08625f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.4deeb25c.js",
-    "static/js/2.30a2dbde.chunk.js",
+    "static/js/runtime-main.97e34d29.js",
+    "static/js/2.4ba2d342.chunk.js",
     "static/css/main.328cda1d.chunk.css",
-    "static/js/main.581416e5.chunk.js"
+    "static/js/main.7796234c.chunk.js"
   ]
 }
