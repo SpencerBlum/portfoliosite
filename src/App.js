@@ -10,15 +10,10 @@ import  Home from "./Routes/Home.js"
 function App() {
   return (
  
-    <div className="">
-
-
-
+    <div >
     <Router >
-      <div>
-      <Route  exact path="/Home"   omponent={Home} />
+      <Route  exact path="/Home"   component={Home} />
       <Route  exact path="*"  render={() => <Redirect to ="/Home" /> } />
-      </div>
     </Router>
     </div>
   );
