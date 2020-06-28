@@ -9,12 +9,11 @@ import  Home from "./Routes/Home.js"
 
 function App() {
   return (
- 
     <div >
-    <Router >
-      <Route  exact path="/Home"   component={Home} />
-      <Route  exact path="*"  render={() => <Redirect to ="/Home" /> } />
-    </Router>
+      <Router >
+        <Route  exact path="/Home"   component={Home} />
+        <Route  exact path="*"  render={() => <Redirect to ="/Home" /> } />
+      </Router>
     </div>
   );
 }
