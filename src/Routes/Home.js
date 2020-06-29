@@ -4,7 +4,7 @@ import Header from "../Components/Header"
 import HomeBody from "../Components/HomeBody"
 import Footer from "../Components/Footer"
 
-const Home = () => 
+const Home = () => {
 
 return(
     <div>
