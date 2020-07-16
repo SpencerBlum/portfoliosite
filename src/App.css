@@ -1,3 +1,6 @@
+
+
+
 .App {
   text-align: center;
 }
@@ -44,6 +47,10 @@
   background-color: rgb(24, 96, 163);
   padding-top: 20px;
   padding-left: 20px;
+  /* position: fixed;
+  top: 0px;
+  margin-top: 0; */
+  width: 100vw;
 }
 
 .logo {
